@@ -1,0 +1,3 @@
+rootProject.name = 'FestApp'
+
+include ':app'
